@@ -1,18 +1,18 @@
 ># *Automate Corporate Processes with Smart Contracts*  
 
-<img src="Images/black_hole.jpg" align="center" width="200px"/>
+<img src="Images/black_hole.jpg" align="left" width="200px"/>
 <br clear="center"/>
-<img src="Images/ETHUSD2.png" align="right" width="350px"/>
+<img src="Images/ETHUSD2.png" align="center" width="350px"/>
 <img src="Images/solidity.png" align="right" width="350px"/>
 
 >### Overview: 
 >> These scripts will *Compile* & *Execute* solidity smart contracts to execute traditional _Accounts Payable_ functions.
 
-#### Equal allocation: _AssociateProfitSplitter_
+#### Equal allocation: See '_AssociateProfitSplitter_.sol'
 
-#### Hierarchical allocation: _TieredProfitSplitter_
+#### Hierarchical allocation: See '_TieredProfitSplitter_.sol'
 
-#### Stock Compensation: _DeferredEquityPlan_
+#### Stock Compensation: See '_DeferredEquityPlan_.sol'
 
 >## What is Solidity?
 > [Solidity](https://docs.soliditylang.org/en/v0.8.10/#): "Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state."
