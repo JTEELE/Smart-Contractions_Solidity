@@ -6,16 +6,19 @@
 <img src="Images/solidity.png" align="right" width="350px"/>
 
 >### Overview: 
->> These scripts will *Compile* & *Execute* solidity smart contracts to execute traditional _Accounts Payable_ functions.
+>>> These scripts will *Compile* & *Execute* solidity smart contracts to execute traditional _Accounts Payable_ functions.
 
-#### Equal allocation: See '_AssociateProfitSplitter_.sol'
+>>#### Equal allocation: See '_AssociateProfitSplitter_.sol'
 
-#### Hierarchical allocation: See '_TieredProfitSplitter_.sol'
+>>#### Hierarchical allocation: See '_TieredProfitSplitter_.sol'
 
-#### Stock Compensation: See '_DeferredEquityPlan_.sol'
+>>#### Stock Compensation: See '_DeferredEquityPlan_.sol'
+#
+>>
 
 >## What is Solidity?
 > [Solidity](https://docs.soliditylang.org/en/v0.8.10/#): "Solidity is an object-oriented, high-level language for implementing smart contracts. Smart contracts are programs which govern the behaviour of accounts within the Ethereum state."
+#
 
 >## What are Smart Contracts?
 > [Data Science](https://medium.com/coinmonks/what-are-smart-contracts-definition-and-explanation-e96cb879a8cb): "Smart contracts are electronic contracts based on a computer program that automate business processes in a legally secure way, also between partner companies. Smart contracts are based on blockchain technology and use this technology's advantages, such as transparency, forgery protection, and availability."
