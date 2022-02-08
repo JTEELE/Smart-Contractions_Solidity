@@ -18,11 +18,8 @@ contract DeferredEquityPlan {
     uint annual_distribution = 250; // Four-year vesting period (250 shares/yr. = 1000 total_shares)
 
     uint start_time = now; // permanently store the time this contract was initialized
-
     uint unlock_time = now + 365 days;
-
     uint public distributed_shares; // starts at 0
-
     constructor(address payable _employee) public {
         human_resources = msg.sender;
         employee = _employee;
